@@ -13,3 +13,6 @@ tests/tmp
 coverage
 # Generated assets by accuracy runs
 .accuracy
+
+.specstory
+.cursorindexingignore
